@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/mrvnsrm/CS120-SU26/main'
+relocations:     []
+...
